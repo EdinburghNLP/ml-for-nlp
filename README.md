@@ -19,7 +19,7 @@ The meetings usually take place in the Informatics forum room 3.02, but during t
 
 ## June 29, 2020
 
-Propose/vote a paper here: https://github.com/cbaziotis/ml-for-nlp/issues/1
+Propose/vote a paper [here](https://github.com/cbaziotis/ml-for-nlp/issues/1).
 
 
 ## June 22, 2020
