@@ -1,4 +1,4 @@
-This is an *unofficial* web-home for the University of Edinburgh's ML-for-NLP reading group. 
+This is the web-home for the University of Edinburgh's ML-for-NLP reading group. 
 
 This reading group focuses on Machine Learning techniques that may be applied to the field of Natural Language Processing. Participants are encouraged to suggest topics, papers, or tutorials (which need not involve any current application in NLP).
 
